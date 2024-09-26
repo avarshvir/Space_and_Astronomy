@@ -11,7 +11,16 @@
 - Comets and Asteroids: Small bodies composed of ice, rock, and metal, often remnants from the solar systems formation.
 - Galaxies: Massive systems of stars, stellar remnants, interstellar gas, dust, and dark matter, bound together by gravity.
 
-<b><u>Phenomena</u></b>
+<b><u>2. Phenomena</u></b>
 - Black Holes: Regions of space where gravity is so strong that nothing, not even light, can escape.
 - Supernovae: Explosive deaths of massive stars, producing shockwaves and heavy elements.
 - Nebulae: Clouds of gas and dust, often the birthplaces of stars and planetary systems.
+
+
+<b><u>2. Cosmology</u></b>
+- Big Bang Theory: The leading explanation for the origin of the universe, describing a rapid expansion from a hot, dense state.
+- Dark Matter and Dark Energy: Mysterious substances that make up most of the universe mass and energy, influencing its expansion and structure.
+
+<b><u>3. Techniques</u></b>
+- Observational Astronomy: Using telescopes and other instruments to gather data from electromagnetic radiation emitted or reflected by celestial objects.
+- Theoretical Astronomy: Developing mathematical models and simulations to explain observations and predict future phenomena.</span></p>
