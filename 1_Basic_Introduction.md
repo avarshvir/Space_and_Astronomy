@@ -3,10 +3,15 @@
 ### It’s a field that combines imagination, technology, and scientific inquiry, offering insights that span from the origins of the universe to the potential for life on other planets.
 
 ### Here are some Key Areas in Astronomy
-<b><ul>1. Celestial Objects</b></ul>
+<b><u>1. Celestial Objects</u></b>
 
 - Stars:  Massive, luminous spheres of plasma held together by gravity. They are the primary sources of light and heat in the universe.
 - Planets: Large celestial bodies orbiting stars, including those in our solar system and exoplanets orbiting other stars.
 - Moons: Natural satellites orbiting planets, varying widely in size and composition.
 - Comets and Asteroids: Small bodies composed of ice, rock, and metal, often remnants from the solar systems formation.
 - Galaxies: Massive systems of stars, stellar remnants, interstellar gas, dust, and dark matter, bound together by gravity.
+
+<b><u>Phenomena</u></b>
+- Black Holes: Regions of space where gravity is so strong that nothing, not even light, can escape.
+- Supernovae: Explosive deaths of massive stars, producing shockwaves and heavy elements.
+- Nebulae: Clouds of gas and dust, often the birthplaces of stars and planetary systems.
