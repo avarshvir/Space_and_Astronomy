@@ -6,15 +6,15 @@
 
 <p><span style="font-weight: 400">Lets explore some Methods and Tools:</span><span style="font-weight: 400"></p>
 <p></span></p>
-<p><span style="font-weight: 400">The first tool which we are going to explore are the Telescopes. Here are some types of telescopes used in astronomy</span><span style="font-weight: 400"></p>
+<p><span style="font-weight: 400">1. The first tool which we are going to explore are the Telescopes. Here are some types of telescopes used in astronomy</span><span style="font-weight: 400"></p>
 <p></span></p>
-<p><span style="font-weight: 400">Optical Telescopes which Use lenses or mirrors to gather and focus visible light. Examples include refracting telescopes (which use lenses) and reflecting telescopes (which use mirrors).</span></p>
-<p><span style="font-weight: 400">Then there are Radio Telescopes which are used to Detect radio waves from space. These telescopes have large parabolic antennas and are used to study radio emissions from galaxies, quasars, and other astronomical objects.</span></p>
-<p><span style="font-weight: 400">Space Telescopes: Positioned outside Earth’s atmosphere to avoid atmospheric distortion and light pollution. Examples include the Hubble Space Telescope and the James Webb Space Telescope.</span></p>
-<p><span style="font-weight: 400"> Infrared Telescopes: Detect infrared radiation, which is useful for observing objects obscured by dust or that emit most of their energy in the infrared spectrum.</span></p>
-<p><span style="font-weight: 400">X-ray and Gamma-ray Telescopes: Observe high-energy radiation from phenomena like black holes, neutron stars, and supernovae.</span></p>
+<p><span style="font-weight: 400">- Optical Telescopes which Use lenses or mirrors to gather and focus visible light. Examples include refracting telescopes (which use lenses) and reflecting telescopes (which use mirrors).</span></p>
+<p><span style="font-weight: 400">- Then there are Radio Telescopes which are used to Detect radio waves from space. These telescopes have large parabolic antennas and are used to study radio emissions from galaxies, quasars, and other astronomical objects.</span></p>
+<p><span style="font-weight: 400">- Space Telescopes: Positioned outside Earth’s atmosphere to avoid atmospheric distortion and light pollution. Examples include the Hubble Space Telescope and the James Webb Space Telescope.</span></p>
+<p><span style="font-weight: 400">- Infrared Telescopes: Detect infrared radiation, which is useful for observing objects obscured by dust or that emit most of their energy in the infrared spectrum.</span></p>
+<p><span style="font-weight: 400">- X-ray and Gamma-ray Telescopes: Observe high-energy radiation from phenomena like black holes, neutron stars, and supernovae.</span></p>
 <p> </p>
-<p><span style="font-weight: 400">Now lets understand the term Spectroscopy:</span></p>
+<p><span style="font-weight: 400">2. Now lets understand the term Spectroscopy:</span></p>
 <p><span style="font-weight: 400">   Spectroscopy Involves analyzing the spectrum of light emitted or absorbed by objects.</span></p>
 <p><span style="font-weight: 400">   Spectroscopes split light into its component colors, revealing information about the object’s composition, temperature, velocity, and more.</span></p>
 <p> </p>
